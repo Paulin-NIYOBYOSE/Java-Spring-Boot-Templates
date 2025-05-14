@@ -1,4 +1,4 @@
-package com.aimable01.cat;
+package com.example.cat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

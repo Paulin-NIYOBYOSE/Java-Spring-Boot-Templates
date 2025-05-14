@@ -1,4 +1,4 @@
-package com.aimable01.cat;
+package com.example.cat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

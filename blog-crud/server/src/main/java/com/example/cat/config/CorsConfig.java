@@ -1,4 +1,4 @@
-package com.aimable01.cat.config;
+package com.example.cat.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

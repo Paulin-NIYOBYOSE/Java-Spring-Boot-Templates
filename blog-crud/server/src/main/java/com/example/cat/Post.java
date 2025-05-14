@@ -1,4 +1,4 @@
-package com.aimable01.cat;
+package com.example.cat;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.aimable01.cat;
+package com.example.cat;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
